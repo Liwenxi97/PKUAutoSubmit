@@ -1,4 +1,5 @@
 # PKUAutoSubmit (modified)
+科技改变生活！
 
 **UPDATE 2020/10/18**
 
